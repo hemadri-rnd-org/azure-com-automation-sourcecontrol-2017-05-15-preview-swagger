@@ -1,2 +1,32 @@
-# azure-com-automation-sourcecontrol-2017-05-15-preview-swagger
-OpenAPI specification for azure.com API vautomation-sourceControl
+# azure.com API - Version automation-sourceControl
+
+This repository contains the OpenAPI/Swagger specification for the azure.com API.
+
+## File Information
+
+- **Service**: azure.com
+- **Version**: automation-sourceControl
+- **File**: swagger.yaml
+- **Original Path**: azure.com/automation-sourceControl/2017-05-15-preview/swagger.yaml
+
+## Usage
+
+This YAML file contains the complete API specification that can be used with various tools:
+
+- **Swagger UI**: View and interact with the API
+- **Code Generation**: Generate client libraries and server stubs
+- **API Testing**: Test API endpoints
+- **Documentation**: Generate API documentation
+
+## Tools
+
+You can use this specification with:
+
+- [Swagger Editor](https://editor.swagger.io/)
+- [Swagger UI](https://swagger.io/tools/swagger-ui/)
+- [OpenAPI Generator](https://openapi-generator.tech/)
+- [Postman](https://www.postman.com/)
+
+---
+
+*Generated automatically by GitHub CLI Creator*
